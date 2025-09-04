@@ -1,4 +1,4 @@
-# EaglerCraft X 1.8.8 u50 for Web Browser
+# EaglerCraft X 1.8.8 u53 for Web Browser
 
 ## EaglerCraft is a web-based version of Minecraft made possible by translating its Java code into JavaScript.
 
